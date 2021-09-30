@@ -44,6 +44,17 @@ menu {
 }
 
 img.rounded-corners {
-  border-radius: 30px;
+  border-radius: 15px;
 }
 
+site-title {
+  opacity:0;
+  position:relative;
+  top:-10px
+}
+
+site-subtitle {
+  color:#ddd;
+  font-size:.8125em;
+  margin:10px 0
+}
