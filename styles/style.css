@@ -16,6 +16,7 @@ bigheader {
   font-family: 'Lato', sans-serif;
 }
 
+*/ menu thing */
 ul {
   list-style-type: none;
   margin: 0;
@@ -34,4 +35,10 @@ li a {
 li a:hover {
   background-color: #555;
   color: white;
+}
+
+floatedElement {
+    float:left;
+    position:relative;
+    top:15px;
 }
