@@ -43,3 +43,7 @@ menu {
   text-decoration: none;
 }
 
+img.rounded-corners {
+  border-radius: 30px;
+}
+
