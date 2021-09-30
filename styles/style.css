@@ -11,3 +11,8 @@ html {
   font-size: 25px; 
   font-family: "Open Sans", sans-serif;
 }
+bigheader {
+  width: 1080px;
+  padding: 10px;
+  margin: 0;
+}
